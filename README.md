@@ -67,20 +67,31 @@ Open your **Termux Console** terminal app screen and execute these steps line-by
 
 bash
 
-    # 🛸 Step 1: Bootstrap core system assets
-    pkg update && pkg upgrade -y
-    pkg install nodejs git build-essential -y
+   🛸 Step 1: Bootstrap core system assets
+   
+    #pkg update && pkg upgrade -y
+  ....
+  
+    #pkg install nodejs git build-essential -y
     
-    # 🛰️ Step 2: Acquire repository structure safely
-    git clone https://github.com
-    cd instagram-bot
+   Step 2: 
+    Acquire repository structure safely
+  
+    #git clone https://github.com
+  ...
+  
+    #cd instagram-bot
     
-    # 🔮 Step 3: Map active nodes and lock process variables
-    npm install
-    npm install pm2 -g
+   Step 3: Map active nodes and lock process variables
+   
+    #npm install
+  ...
+  
+    #npm install pm2 -g
     
-    # 🚀 Step 4: Ignite continuous runtime environment
-    npm run pm2-start
+  🚀 Step 4: Ignite continuous runtime environment
+  
+    #npm run pm2-start
     
 
 Use code with caution.
