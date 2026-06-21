@@ -1,10 +1,10 @@
 # instagram-bot
 <!-- Live Real-Time Counting Badges -->
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/dark-end5/instagram-bot">
     <img src="https://shields.io" alt="Live Stars Counter" />
   </a>
-  <a href="https://github.com">
+  <a href="https://github.com/dark-end5/Instagram-bot">
     <img src="https://shields.io" alt="Live Forks Counter" />
   </a>
 </p>
@@ -24,10 +24,6 @@
 
 <div align="center">
 
-| 🛠️ INSTAGRAM BOT GARAGE STATUS |
-| :--- |
-| <code style="color: #FF007F; font-size: 16px;"><b>[✓] PIT LANE: OPEN</b></code> <br> <code style="color: #00F3FF; font-size: 16px;"><b>[✓] CHASSIS ID: ELIUD LESTA</b></code> <br> <code style="color: #7B2CBF; font-size: 16px;"><b>[✓] CHIEF ENGINEER: ELIUD NJORA</b></code> |
-
 </div>
 
 <hr />
@@ -45,14 +41,14 @@
 * * *
 <!-- Live Repository Activity Summary Matrix Card -->
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/dark-end5/Instagram-bot">
     <img src="https://vercel.app" alt="Eliud Lesta Repo Card" />
   </a>
 </p>
 
 * * *
 
-### 🔮 𝐐𝐔𝐀𝐍𝐓𝐔𝐌 𝐍𝐄𝐎𝐍 𝐂𝐎𝐍𝐒𝐎𝐋𝐄
+### 🔮 INSTAGRAM BOT - TERMUX 
 
 An advanced, multi-threaded modular framework engineered explicitly for lightweight performance optimization inside the Android **Termux Application environment**. This platform acts as an automated profile proxy running under the identifier signature **Eliud Lesta**, with full administrative overrides belonging exclusively to **Eliud Njora**.
 
