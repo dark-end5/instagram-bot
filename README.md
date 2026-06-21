@@ -1,17 +1,13 @@
-# instagram-bot
-<!-- Live Real-Time Counting Badges -->
+#<img src="https://githubusercontent.com" width="40" height="40" /> ELIUD LESTA — INSTAGRAM CORE
+
+<!-- LIVE NEON TYPING ANIMATION LAYER -->
 <p align="center">
-  <a href="https://github.com/dark-end5/instagram-bot">
-    <img src="https://shields.io" alt="Live Stars Counter" />
-  </a>
-  <a href="https://github.com/dark-end5/Instagram-bot">
-    <img src="https://shields.io" alt="Live Forks Counter" />
+  <a href="https://github.com/dark-end5">
+    <img src="https://demolab.com" alt="Neon Typing Animation" />
   </a>
 </p>
 
-### ELIUD LESTA — INSTAGRAM CORE
-
-<!-- START OF RACING CAR GARAGE BANNER -->
+<!-- RACING CAR GARAGE BANNER -->
 <p align="center">
   <img src="https://giphy.com" width="100%" alt="Cyberpunk Retro Racing Car Animation Grid" />
 </p>
@@ -21,29 +17,32 @@
     🏎️💨 <b>[SYSTEM INITIALIZING]</b> ENGINE IGNITED... ENTERING INSTAGRAM GARAGE...
   </samp>
 </p>
-
 <div align="center">
+
+| 🛠️ INSTAGRAM BOT GARAGE STATUS |
+| :--- |
+| <code style="color: #FF007F; font-size: 16px;"><b>[✓] PIT LANE: OPEN</b></code> <br> <code style="color: #00F3FF; font-size: 16px;"><b>[✓] CHASSIS ID: ELIUD LESTA</b></code> <br> <code style="color: #7B2CBF; font-size: 16px;"><b>[✓] CHIEF ENGINEER: ELIUD NJORA</b></code> |
 
 </div>
 
-<hr />
-<!-- END OF RACING CAR GARAGE BANNER -->
+---
 
-🏎️💨 **\[SYSTEM INITIALIZING\]** ENGINE IGNITED... ENTERING INSTAGRAM GARAGE...  
-  
-
-🛠️ INSTAGRAM BOT GARAGE STATUS
-
-**\[✓\] PIT LANE: OPEN**  
-**\[✓\] CHASSIS ID: ELIUD LESTA**  
-**\[✓\] CHIEF ENGINEER: ELIUD NJORA**
-
-* * *
-<!-- Live Repository Activity Summary Matrix Card -->
 <p align="center">
-  <a href="https://github.com/dark-end5/Instagram-bot">
-    <img src="https://vercel.app" alt="Eliud Lesta Repo Card" />
+  <!-- Live Counting Badges (Neon Style) -->
+  <a href="https://github.com/dark-end5/stargazers">
+    <img src="https://shields.io" alt="Live Stars Counter" />
   </a>
+  <a href="https://github.com/dark-end5/network/members">
+    <img src="https://shields.io" alt="Live Forks Counter" />
+  </a>
+    <img src="https://komarev.com" alt="Neon View Counter" />
+</p>
+
+<p align="center">
+  <!-- Live Component Heartbeats -->
+  <img src="https://shields.io" alt="Uptime Heartbeat" />
+  <img src="https://shields.io" alt="Process Tracker" />
+  <img src="https://shields.io" alt="Environment" />
 </p>
 
 * * *
