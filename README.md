@@ -1,17 +1,13 @@
-# instagram-bot
-<!-- Live Real-Time Counting Badges -->
+<img src="https://githubusercontent.com" width="40" height="40" /> ELIUD LESTA — INSTAGRAM CORE
+
+<!-- LIVE NEON TYPING ANIMATION LAYER -->
 <p align="center">
-  <a href="https://github.com/dark-end5/instagram-bot">
-    <img src="https://shields.io" alt="Live Stars Counter" />
-  </a>
-  <a href="https://github.com/dark-end5/Instagram-bot">
-    <img src="https://shields.io" alt="Live Forks Counter" />
+  <a href="https://github.com">
+    <img src="https://demolab.com" alt="Neon Typing Animation" />
   </a>
 </p>
 
-### ELIUD LESTA — INSTAGRAM CORE
-
-<!-- START OF RACING CAR GARAGE BANNER -->
+<!-- RACING CAR GARAGE BANNER -->
 <p align="center">
   <img src="https://giphy.com" width="100%" alt="Cyberpunk Retro Racing Car Animation Grid" />
 </p>
@@ -23,28 +19,6 @@
 </p>
 
 <div align="center">
-
-</div>
-
-<hr />
-<!-- END OF RACING CAR GARAGE BANNER -->
-
-🏎️💨 **\[SYSTEM INITIALIZING\]** ENGINE IGNITED... ENTERING INSTAGRAM GARAGE...  
-  
-
-🛠️ INSTAGRAM BOT GARAGE STATUS
-
-**\[✓\] PIT LANE: OPEN**  
-**\[✓\] CHASSIS ID: ELIUD LESTA**  
-**\[✓\] CHIEF ENGINEER: ELIUD NJORA**
-
-* * *
-<!-- Live Repository Activity Summary Matrix Card -->
-<p align="center">
-  <a href="https://github.com/dark-end5/Instagram-bot">
-    <img src="https://vercel.app" alt="Eliud Lesta Repo Card" />
-  </a>
-</p>
 
 * * *
 
